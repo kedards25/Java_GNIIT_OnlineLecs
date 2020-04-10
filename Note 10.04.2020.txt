@@ -1,0 +1,105 @@
+simple if
+if()
+{
+	//code to be executed if the condition is true
+}
+
+simple if..else
+if()
+{
+	//code to be executed if the condition is true
+}
+else
+{
+	//code to be executed if the condition is false
+}
+
+nested if
+if()
+{
+	//inner if will be executed only when outer if evaluates to be true
+	if()
+	{
+	
+	}
+	else
+	{
+
+	}
+}
+else
+{
+
+}
+
+nested else..if | else..if ladder
+if()
+{
+	//code to be executed if the condition is true
+}
+else
+{
+	if()
+	{
+		//code to be executed if the condition is true
+	}
+	else
+	{
+		if()
+		{
+			//code to be executed if the condition is true	
+		}	
+		else
+		{
+			
+		}
+	}
+}
+
+switch..case
+int choice;
+switch(choice)
+	{
+		case 1:
+			//code to be executed
+			break;
+		case 2:
+			//code to be executed
+			break;
+		case 3:
+			//code to be executed
+			break;
+		case 4:
+			//code to be executed
+			break;
+		default:
+			//code to be executed if none of the case matches
+
+	}
+
+
+
+break 
+	it will break the given block and control will pass further
+
+continue
+	it will skip the subsequent steps and control will go back to start of
+	the block
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

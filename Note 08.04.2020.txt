@@ -1,0 +1,121 @@
+The type of the data my variable is going to store
+is its data type
+
+default data type of java is String
+
+primitive
+Integer=>int
+derived
+	long
+	short
+	byte
+
+	0.123456
+	0.123456789123
+
+what is git and github
+
+how to set environment variable for Java
+
+Operator operates on variables
+in terms of operators ,variables are called as operands
+
+a+b
++ =>operator
+a,b=>operands
+
+Assignment
+=
+assignment is done from right to left
+x=7
+
+Arithmatic Operators
+	+,-,*,/,%
+	% =>mod->modulus
+	remainder after division->can be used to check if 
+	given number is divisible by other or not
+
+	5/2=2
+	5%2=1
+
+
+Arithmatic Assignment Operator
+Arithmatic is performed on the variable and value is stored
+back in same variable	
+
+a=5
++=	a+=5	a=a+5	a=10
+-=	a-=5	a=a-5	a=5 
+*=	a*=5	a=a*5	a=25
+/=	a/=5	a=a/5	a=5
+%=	a%=5	a=a%5	a=0
+
+
+Conditional Operators
+<,>,<=,>=,==,!=
+
+a=7
+a==8	=>false
+a!=9	=>True
+
+Boolean value
+
+Logical Operator
+	AND,OR,NOT
+
+and(&&)
+
+C1	C2	Res
+T	T	T
+T	F	F
+F	T	F
+F	F	F
+
+
+OR(||)
+
+C1 	C2	Res
+T	T	T
+T	F	T
+F	T	T
+F	F	F
+
+NOT(!)
+C1	Res
+T	F
+F	T
+
+x=7
+!(x==10)
+!(x!=15)
+
+Unary Operators
+operators that operate on single variable
+++
+--
+a=5
+a++	a=6
+a-- 	a=5
+
+x=5	y=8
+x=y++
+x=? 	y=?
+
+x=5	y=8
+x=++y
+x=? 	y=?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
