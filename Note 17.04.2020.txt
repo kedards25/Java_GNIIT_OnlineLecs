@@ -1,0 +1,50 @@
+Loops help us to iterate given block of code for given number of times
+
+to iterate loop we should use an iterator
+you can relate the iterator to the elavator in the society
+it is used to take people up and down
+
+if you are standing on ground floor and you want to go on 7th floor
+what will be starting point and the ending point?
+
+will the elavator directly go to 7th floor or will go up gradually?
+
+so these are the three steps involved in iterator
+initial value
+limit
+incr/decr
+
+iterator has to be provided with three parameters
+initial value
+condition
+incr/decr
+
+sometimes we can use iterator itself as a process
+to implement iteration we have three features
+while
+do..while
+tell me when to use do..while??
+	we can use do..while when I want to put condition on calculated value
+	can anyone explain the said line?
+	int a,b,c;
+	a=5;
+	b=7;
+	I want to put condition on c but c is result of addition
+	do
+	{
+		c=a+b;
+	}while(c<100)
+
+is this clear??
+
+
+We are consuming 3 lines to implement loop
+which may add up to lenghy code
+hence in order to make the loop compact we use for loop
+in which all the three steps are given in one line
+for
+
+Those who know the concept of break and continue predict 
+the o/p
+
+

@@ -1,0 +1,64 @@
+OOPS
+	classes and objects
+
+	objects
+		Any real world entity around us 
+		properties and behavior
+		
+		object of particular category has same properties
+		Real world	OOPS		programatic
+		properties	state		variables
+		functionality	Behavior	Methods/Functions
+		unique thing	identity	constants
+
+		Two objects can have same state and behavior but will never 
+		have same identity
+
+		objects of two classes communicate with each other using messages
+		in response to the message given by one object,other object performs
+		some action and this action is called as method
+
+	classes
+		collection of objects with same state and behavior
+		or objects belonging to particular class exhibit all the state
+		and behavior of the given class
+
+Advantages of OOPS
+	Realistic Modelling
+		connects to real world thus making problem 
+		solving eay
+	Reusability
+		Reuse the code whenever and wherever required
+	Modularity
+		Division of problem statement in small problem modules
+		least dependancy
+	Resilience/Flexibility to change
+		To make a small change we need not to rewrite the whole code
+	Information Hiding
+		Hiding the unneccessary information from the user	
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
