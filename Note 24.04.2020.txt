@@ -1,0 +1,92 @@
+characteristics of OOPS
+
+	any language is said to be OOPS language if it follows
+	following characteristics
+
+	Abstraction(What is going to happen and not HOW it is going to happen)
+		show the data required by the user
+		e.g. Login screen of instagram,twitter
+
+	Encapsulation(Hiding the information not required by the user)
+
+	Polymorphism
+		it is made of two greek words
+		Poly->many
+		Morphos->Forms
+		One thing in many forms
+		*,&,%
+		Addition
+			instead of
+			int	=>addInts(int,int)
+			float	=>addFloats(float,float)
+			double	=>addDoubles(double,doble)
+	
+			declare single function with diff parameters
+			add(int,int)
+			add(float,float)
+			add(double,double)
+
+	Inheritance
+		properties and methods of one class can be reused in another class
+		instead of recreating by inheriting the existing class
+		Types of Inheritance
+			Single Inheritance
+				One Parent class->One child class
+
+			Multiple inheritance
+				More than one parent class and many child classes
+			
+			Multilevel inheritance
+				A->B->C		C->A
+			
+			Hybrid inheritance
+				Combination of all
+			
+			Network
+			
+			Hierarchical
+
+			In Java only single inheritance is supported in case
+			of classes
+
+
+Types of associations/relationships between the objects
+	Composition Relationship
+		One thing made up/composed of another
+		phrases like:
+			'has-a','part-of'
+			CPU has a motherboard
+			Motherboard is part of CPU
+
+	Utilisation Relationship
+		One thing uses another thing
+		phrase:uses,utilises
+
+	Instantiation Relationship
+		One thing is an object of other
+		phrase:is-a
+		iphone is a mobile
+
+	Generalisation
+		is base of specialisation
+		Keeps all the common things together
+		foundation of inheritance
+		
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
