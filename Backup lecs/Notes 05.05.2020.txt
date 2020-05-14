@@ -1,0 +1,23 @@
+Java is not only a language but a technology
+Java is platform independant because
+java program->jvm->converts your code in machine language(Binary language)
+->compiled code then runs on your OS
+
+which application is responsible for converting your code in machine language??
+Compiler	->converts your code as whole
+interpreter	->converts your code line by line
+
+java is the language which uses compiler and interpreter both
+	.java file gets converted to bytecode (.class) using compiler
+	.class file further gets interpreted by JIT(Just In Time Compiler) 
+
+instead of setting path everytime we launch command prompt(cmd)
+we can set path globally by using environment variables
+
+
+WAP to calculate simple interest based on P,N,R
+
+WAP to convert given in Kilometers to meters
+
+WAP to accept two values and swap them
+

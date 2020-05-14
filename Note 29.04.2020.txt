@@ -1,0 +1,25 @@
+Enumeration
+	When we want user to choose values from given range we use enum
+
+Polymorphism
+	One thing many forms
+	create function with same name and different parameters
+	Types of polymorphism
+		Static Polymorphism
+			parameters are known in prior
+			hence the function knows when it has to execute
+			it takes place in single class
+		Dynamic Polymorphism
+			function does not know when it has to execute
+			function call is decided at runtime
+			it takes place in inherited classes
+
+
+	void subtract(int a,int b)	//base function to compare with
+	void subtract(float x,float y);	//Data type of parameters are different
+	void subtract(int a,int b,int c)//no of parameters are different
+	void subtract(int b,int a)	//sequence of parameters is different
+	void subtract(int x,int y)	//no polymorphism->variable names does not matter
+	int subtract(int a,int b)	//return type does not matter
+
+	function signature:- returnType functionName(ParamList)

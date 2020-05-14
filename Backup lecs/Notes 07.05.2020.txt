@@ -1,0 +1,139 @@
+Types of If..Else
+simple if
+if()
+{
+
+}
+
+simple if..else
+if()
+{
+
+}
+else
+{
+
+}
+
+nested if	//executes when first condition is true
+if()
+{
+	//check for other condition
+	if()
+	{
+		//code to execute if inner if is true	
+	}
+	else
+	{
+		//code to execute if inner if is false	
+	}
+}
+else
+{
+	//code to execute if outer if is false	
+}
+
+nested else..if			//executes when condition is false
+if()
+{
+
+}
+else
+{
+	if()
+	{
+		
+	}
+	else
+	{
+		if()
+		{
+			
+		}
+		else
+		{
+		
+		}	
+	}
+	
+}
+
+switch..case
+choice=3
+switch(choice)
+{
+	case 1:
+		//code to execute for first case
+		break;
+
+	case 2:
+		//code to execute for first case
+		break;
+
+	case 3:
+		//code to execute for first case
+		break;
+
+	case 4:
+		//code to execute for first case
+		break;
+	default:
+		//code to execute for first case
+		break;
+
+
+}
+
+
+in case of normal or conditional execution
+	we will get only one output in one execution
+	if we want to get more than one o/p in single execution then
+	we should implement loop
+
+loops help to run given block of code for n number of times
+to execute loop we need to implement an iterator
+
+	iterator helps you to iterate the loop
+	iterator
+		starting value
+		end value
+		incr/decr
+
+Types of Loop
+	while
+	do..while
+	for
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

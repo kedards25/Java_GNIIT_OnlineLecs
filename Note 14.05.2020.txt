@@ -1,0 +1,12 @@
+interfaces help us to implement multiple/multi-level inheritance
+methods in interface are public abstract by default=>methods will describe what will happen and 
+						not how it will happen
+we cannot declare variables in an interface but constants can be defined
+
+int num//not allowed in interface
+int NUM=8//allowed in interface
+
+abstract class can have abstract and non-abstract methods
+whereas interface will have abstract methods only
+
+in order to inherit an interface the keyword is 'implements'

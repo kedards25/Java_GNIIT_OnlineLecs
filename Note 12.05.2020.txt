@@ -1,0 +1,18 @@
+Types of inheritance
+	single inheritance
+	Multiple inheritance
+	Multi-level inheritance
+
+	Java supports only single inheritance in case of classes
+
+limitations of inheritance
+	inheritance takes place from parent to child and not vice-a-versa
+	Though child class is member of parent class 
+	it cannot access private members of parent
+
+Abstract classes
+	classes which have abstract and non abstract methods
+	methods without body are called as abstract methods
+	hence abstract classes are considered as incomplete classes
+	and we need to inherit abstract classes in order to implement methods from it
+	as it is considered as incomplete class we cannot create object of abstract class
